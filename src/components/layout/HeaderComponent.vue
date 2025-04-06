@@ -4,7 +4,7 @@
       <div class="header-content">
         <div class="logo">
           <router-link to="/">
-            <img src="https://ext.same-assets.com/3253698089/882609388.png" alt="Fragrance Bloom" />
+            <img src="../../assets/pakclick.png" alt="pakclick" />
           </router-link>
         </div>
 

@@ -37,7 +37,7 @@
 
           <div class="col col-3">
             <h5 class="footer-title">Contact info</h5>
-            <p class="contact-info">info@zontec.club</p>
+            <p class="contact-info">pakclick@zontec.club</p>
           </div>
         </div>
       </div>
@@ -171,7 +171,7 @@ export default {
       transition: background-color 0.3s;
 
       &:hover {
-        background-color: darken(#e14272, 10%);
+        background-color: #e61252;
       }
 
       .arrow-up {
