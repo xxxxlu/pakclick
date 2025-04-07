@@ -5,7 +5,7 @@
         <div class="row">
           <div class="col col-3">
             <div class="footer-logo">
-              <img src="https://ext.same-assets.com/3253698089/882609388.png" alt="Fragrance Bloom" />
+              <img src="../../assets/pakclick.png" alt="pakclick" />
             </div>
             <div class="payment-methods">
               <img src="../../assets/easyPaisa.png" alt="EasyPaisa" />
