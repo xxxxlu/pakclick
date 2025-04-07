@@ -46,7 +46,7 @@
     <div class="footer-bottom">
       <div class="container">
         <div class="copyright">
-          Copyright © {{ currentYear }} | Powered by Data Network Solutions
+          Copyright © {{ currentYear }} | Powered by Data Network Solutions (SMC-Private) Limited
         </div>
         <div class="back-to-top" @click="scrollToTop">
           <span class="arrow-up"></span>
