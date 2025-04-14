@@ -46,7 +46,7 @@
     <div class="footer-bottom">
       <div class="container">
         <div class="copyright">
-          Copyright © {{ currentYear }} | Powered by Data Network Solutions (SMC-Private) Limited
+          Copyright © 2025 Pakclick Store. Powered by DATA TECH SOLUTIONS SMC PRIVATE LIMITED2
         </div>
         <div class="back-to-top" @click="scrollToTop">
           <span class="arrow-up"></span>
