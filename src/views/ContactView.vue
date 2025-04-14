@@ -14,7 +14,7 @@
 
           <div class="info-item">
             <div class="info-content">
-              <h3 class="info-title">pakclick@zontec.club</h3>
+              <h3 class="info-title">pakclick@pakclick.shop</h3>
             </div>
           </div>
         </div>

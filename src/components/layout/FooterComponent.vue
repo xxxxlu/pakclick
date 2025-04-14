@@ -37,7 +37,7 @@
 
           <div class="col col-3">
             <h5 class="footer-title">Contact info</h5>
-            <p class="contact-info">pakclick@zontec.club</p>
+            <p class="contact-info">pakclick@pakclick.shop</p>
           </div>
         </div>
       </div>
